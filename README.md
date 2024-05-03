@@ -1,3 +1,7 @@
+#deployed version of project
+
+(https://react-weather-app-theta-gray.vercel.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
